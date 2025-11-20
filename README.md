@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CPS Telecomunicazioni | Fibra Ottica e Reti Integrate - Roma</title>
-    <meta name="description" content="Partner Fastweb da 20+ anni. Installazione, manutenzione e giunzioni fibra ottica. Connettiamo il futuro con fili di stelle.">
+    <meta name="description" content="Partner Fastweb da 20+ anni. Installazione, manutenzione e giunzioni fibra ottica. Connettiamo il futuro.">
     <style>
         body { font-family: Arial, sans-serif; margin: 0; background: linear-gradient(135deg, #007BFF, #28A745); color: #333; line-height: 1.6; }
         header { background: rgba(0,0,0,0.1); padding: 20px; text-align: center; animation: fadeIn 1s; }
